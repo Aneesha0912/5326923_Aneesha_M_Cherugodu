@@ -9,5 +9,5 @@ Agile for Beginners Course Quiz Score
 Git Training Certificate SimpliLearn
 
 
-*
+<img src="Git/Git Training Certificate SimpliLearn.png" alt="Git Training Certificate SimpliLearn"/>
 
