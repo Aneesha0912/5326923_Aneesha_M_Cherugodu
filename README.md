@@ -4,5 +4,5 @@
 
 
 
-![Agile for beginners Course Quiz Score](SDLC/Agile for Beginners Quiz Score.png)
+![Agile for beginners Course Quiz Score](https://github.com/Aneesha0912/5326923_Aneesha_M_Cherugodu/blob/26a73e5010262d83cab9bb75c5326e8c60522ed4/SDLC/Agile%20for%20Beginners%20Quiz%20Score.png)
 
