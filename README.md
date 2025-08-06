@@ -11,3 +11,15 @@ Git Training Certificate SimpliLearn
 
 <img src="Git/Git Training Certificate SimpliLearn.png" alt="Git Training Certificate SimpliLearn"/>
 
+
+Uploaded all the screenshots of practiced and executed Linux commands to the Linux Programming folder 
+
+<hr>
+# C programming 
+
+Introduction to C Course Sololearn (Beginner)
+
+
+
+
+
