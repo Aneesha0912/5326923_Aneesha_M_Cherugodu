@@ -14,7 +14,7 @@ Git Training Certificate SimpliLearn
 
 <hr>
 
-Uploaded all the screenshots of practiced and executed Linux commands to the Linux Programming folder 
+Uploaded all the screenshots of practiced Linux commands to the Linux Programming folder 
 
 <hr>
 
